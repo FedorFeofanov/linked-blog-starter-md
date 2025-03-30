@@ -1,0 +1,1 @@
+JS has an Object type that is similar to a dictionary, it holds keys and values, each pair is called a property values can be different types and keys are more like variables
