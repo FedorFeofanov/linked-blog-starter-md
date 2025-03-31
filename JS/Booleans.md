@@ -1,0 +1,2 @@
+JS has very interesting && and || usages, it can replace if some times. For example ![[Pasted image 20250331192845.png]] name is not empty string, so it considered true. If the name variable was empty string, null or undefined, the program would return the "No name provided" string, because it is true.
+![[Pasted image 20250331193041.png]] this is a different example where if score is 0, null or undefined, the program will not even go to alert.
